@@ -14,7 +14,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background-image: url(../WD1-2/Images/bamboo.jpg);
+    background-image: url(../WD1/Images/bamboo.jpg);
     background-repeat: repeat-x;
 }
 
@@ -57,7 +57,7 @@ address {
 address > div {
     height: 100vh;
     width: 100vw;
-    background-image: url(../WD1-2/Images/children-fingers.jpg);
+    background-image: url(../WD1/Images/children-fingers.jpg);
     background-size: cover;
 }
 address > div > a {
@@ -178,7 +178,7 @@ main div.main_info p {
 section {
     height: 100vh;
     width: 100vw;
-    background-image: url(../WD1-2/Images/classroom.jpg);
+    background-image: url(../WD1/Images/classroom.jpg);
     background-size: cover;
     padding-top: 100px;
 }
